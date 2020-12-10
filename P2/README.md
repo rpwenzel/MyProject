@@ -1,8 +1,11 @@
 Hi
 I decided to redo Ingest(e,D) using the input as json files and a database for the output.
 
-I have created two directories and put file for each of the way ways i coded in their own directory
+I have created two directories (P1 and P2) and put files for each of the way ways i coded in their own directory:
+P1 D were pandas
+P2 D were DB Tables
 
+This file is for P2
 My source program is MyProject.py
 I use each input json files to create pandas which were loaded as tables into a Postgresql DB
 (I exported my four output tables:  CUSTOMER, SITE_VISIT, IMAGE, ORDER into csv files and copied them into the output director)
