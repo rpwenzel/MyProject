@@ -1,0 +1,4 @@
+[{"type": "CUSTOMER", "verb": "NEW", "key": "00035c7d8f42", "event_time": "2017-04-06T12:46:46.384Z", "last_name": "Kline", "adr_city": "Downtown", "adr_state": "CA"},
+{"type": "SITE_VISIT", "verb": "NEW", "key": "0003e815502f", "event_time": "2017-04-06T12:45:52.041Z", "customer_id": "00035c7d8f42", "tags": [{"some key3": "some value3"}]},
+{"type": "IMAGE", "verb": "UPLOAD", "key": "0003e43b1d9f", "event_time": "2017-04-06T12:47:12.344Z", "customer_id": "00035c7d8f42", "camera_make": "Canon3", "camera_model": "EOS 80D"},
+{"type": "ORDER", "verb": "NEW", "key": "00034e5d1a43", "event_time": "2017-04-06T12:55:55.555Z", "customer_id": "00035c7d8f42", "total_amount": "18.88 USD"}]
