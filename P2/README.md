@@ -7,11 +7,12 @@ P2 D were DB Tables
 
 This file is for P2
 My source program is MyProject.py
-I use each input json files to create pandas which were loaded as tables into a Postgresql DB
+I used each input json files to create pandas which were loaded as tables into a Postgresql DB
 (I exported my four output tables:  CUSTOMER, SITE_VISIT, IMAGE, ORDER into csv files and copied them into the output director)
 
 My 8 input json files are in the input directory:
-(I don't know how to read the json records from a single and convert them into pandas)
+(I didn't know how to read the json records from a single and convert them into pandas, so I created separate files instead) Below are
+the names of the files and what data is in each of them.)
 sfi_1.json  CUSTOMER NEW ... original input_sample
 sfi_2.json  CUSTOMER NEW
 sfi_3.json  CUSTOMER NEW
